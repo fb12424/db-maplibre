@@ -9,7 +9,7 @@ import {
   ScaleControl,
 } from 'maplibre-gl';
 
-const DATA_URL = `${import.meta.env.BASE_URL}data/dbcsd-1F.geojson`;
+const DATA_URL = `${import.meta.env.BASE_URL}data/test1.geojson`;
 const FLOOR_URL = `${import.meta.env.BASE_URL}data/dbcsd-1F-floor.geojson`;
 const SOURCE_ID = 'shops';
 const FLOOR_SOURCE = 'floor';
